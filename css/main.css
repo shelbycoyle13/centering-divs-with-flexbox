@@ -138,7 +138,7 @@ footer {
 
 main {
   /*add display:flex and set justify-content to space-between*/
-  color: #fff;
+  color: #000000;
   font-weight: 700;
   display: flex;
   justify-content: space-between;
@@ -159,7 +159,7 @@ a {
 
 .div-1, .div-2, .div-3 {
   /*give the divs a width of 30%, add display:flex, set justify-content and align-items to center*/
-  color: #fff;
+  color: #000000;
   line-height: 1.5em;
   font-size: 1.4em;
   background-color: #00cc00;
